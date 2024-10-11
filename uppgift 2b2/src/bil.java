@@ -26,5 +26,5 @@ public class bil extends Fordon implements Printable{
     public void printMe() {
         System.out.println(antalväxlar + " " + växeljustnu + " " + växlar);
     }
-
+    //aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 }
